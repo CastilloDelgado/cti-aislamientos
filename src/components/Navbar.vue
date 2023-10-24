@@ -20,7 +20,7 @@ const options = ref([
             <div class="relative flex h-16 items-center justify-between">
             <div class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
                 <div class="flex flex-shrink-0 items-center">
-                    <img class="h-8 w-auto mr-2" :src="logo" alt="CTI Aislamientos Logo">
+                    <!-- <img class="h-8 w-auto mr-2" :src="logo" alt="CTI Aislamientos Logo"> -->
                     <p class="text-white font-bold text-xl">CTI Aislamientos Termicos</p>
                 </div>
             </div>
