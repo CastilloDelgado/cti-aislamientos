@@ -20,14 +20,14 @@ const options = ref([
             <div class="relative flex h-16 items-center justify-between">
             <div class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
                 <div class="flex flex-shrink-0 items-center">
-                    <img class="h-8 w-auto" :src="logo" alt="Yu-Kal Logo">
-                    <img class="h-8 w-auto" :src="textLogo" alt="Yu-Kal Logo">
+                    <img class="h-8 w-auto mr-2" :src="logo" alt="CTI Aislamientos Logo">
+                    <p class="text-white font-bold text-xl">CTI Aislamientos Termicos</p>
                 </div>
             </div>
                 <div class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
                     <div class="hidden sm:ml-6 sm:block">
                         <div class="flex space-x-4">
-                            <a v-for="option in options" :key="option.id" :href="option.link" class="font-bold bg-primary-400/70 hover:bg-primary-400/100 hover:scale-105 transition text-light-100 rounded-md px-3 py-2 text-sm" aria-current="page">
+                            <a v-for="option in options" :key="option.id" :href="option.link" class="font-bold bg-primary-700/70 hover:bg-primary-700/100 hover:scale-105 transition text-light-100 rounded-md px-3 py-2 text-sm" aria-current="page">
                                 {{ option.title  }}
                             </a>
                         </div>

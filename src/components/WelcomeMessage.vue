@@ -9,14 +9,16 @@ import textLogo from "../assets/text-logo.png"
 
 <template>
     <!-- Message -->
-    <div class="bg-primary-500/50 text-center md:px-24 md:py-16 px-6 py-12 rounded"> 
-      <div class="flex justify-center mb-6">
-        <img :src="logo" class="h-24" alt="">
-        <img :src="textLogo" class="h-24" alt="">
+    <div class="bg-black/50 text-center md:px-24 md:py-16 px-6 py-12 rounded"> 
+      <div class="text-center  mb-6">
+        <!-- <img :src="logo" class="h-24" alt=""> -->
+        <!-- <img :src="textLogo" class="h-24" alt=""> -->
+        <p class="text-neutral-50 text font-bold text-8xl ">CTI</p>
+        <p class="text-neutral-200 text text-lg">Aislamiento Termico Integral</p>
       </div>
       <p class="text-orange-300 text-3xl font-serif font-bold">Sitio en construcción</p>
       <p class="text-orange-100 ">Visitanos muy pronto para más informacion</p>
-      <div class="mt-8">
+      <!-- <div class="mt-8">
         <p class="mb-4 text-2xl text-orange-100 font-serif">
           Nuestras Redes Sociales
         </p>
@@ -46,6 +48,6 @@ import textLogo from "../assets/text-logo.png"
             </a>
           </div>
         </div>
-      </div>
+      </div> -->
     </div>
 </template>
