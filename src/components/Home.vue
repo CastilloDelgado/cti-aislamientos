@@ -1,26 +1,27 @@
 <script setup>
-import backgroundImage from "../assets/background.jpg"
-import Layout from "./Layout.vue";
 import WelcomeMessage from "./WelcomeMessage.vue"
+import Customers from "./Customers.vue"
+import CompanyValues from "./CompanyValues.vue";
+import InstagramPostsCarousel from "./InstagramPostsCarousel.vue";
+import ContactForm from "./ContactForm.vue";
 </script>
 
 <template>
-  <Layout>
-    <div class="background h-screen grid place-content-center ">
-      <img class="background h-screen w-full" :src="backgroundImage" alt="Background">
-      <WelcomeMessage />
-    </div>
-  </Layout>
+    <WelcomeMessage />
+
+    <!-- Customers -->
+
+    <Customers />
+
+    <!-- Company Values -->
+    <CompanyValues />
+
+    <!-- Instagram Posts Carousel -->
+    <InstagramPostsCarousel class="block md:hidden min-h-[160vh]" :slides-per-view="1" />
+    <InstagramPostsCarousel class="hidden md:block lg:hidden min-h-[140vh]" :slides-per-view="2" />
+    <InstagramPostsCarousel class="hidden lg:block" :slides-per-view="3" />
+
+
+    <!-- Contact Form -->
+    <ContactForm />
 </template>
-
-<style focused>
-
-img.background {
-  position: absolute;
-  z-index: -1;
-  object-fit: cover;
-  -webkit-filter: blur(5px); /* Safari 6.0 - 9.0 */
-  filter: blur(5px);
-}
-
-</style>
