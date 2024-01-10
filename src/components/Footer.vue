@@ -3,7 +3,7 @@
         <div class="container mx-auto max-w-7xl flex flex-col sm:flex-row px-6 mb-4">
             <div class="w-full sm:w-1/2 mb-4 sm:mb-0">
                 <div class="text-center sm:text-left text-primary-300 text-md">
-                    <p class="text mb-2 font-medium">MJF - Soluciones Eléctricas</p>
+                    <p class="text mb-2 font-medium">CTI - Aislamientos Térmicos</p>
                     <p class="text-storm-gray-300">Email: <a class="font-medium text-storm-gray-100"
                             href="#">contacto@mjf-se.com</a></p>
                     <p class="text-storm-gray-300">Dirección: <a class="font-medium text-storm-gray-100" href="#">Calle

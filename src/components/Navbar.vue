@@ -64,13 +64,13 @@ const links = ref([
         </div>
         <div class="w-full flex justify-center md:hidden">
           <a href="/" class="flex flex-shrink-0 items-center cursor-pointer">
-            <img class="h-12 w-auto" :src="logo" alt="MJF - Soluciones Eléctricas">
+            <img class="h-12 w-auto" :src="logo" alt="CTI - Aislamientos Térmicos">
           </a>
         </div>
         <div class=" flex-1 hidden md:flex items-center sm:items-stretch justify-between md:px-8">
           <a href="/" class="flex flex-shrink-0 items-center cursor-pointer">
-            <img class="h-12 w-auto" :src="logo" alt="MJF - Soluciones Eléctricas">
-            <p class="uppercase font-bold text-minsk-900 hidden md:block">Soluciones Eléctricas</p>
+            <img class="h-12 w-auto" :src="logo" alt="CTI - Aislamientos Térmicos">
+            <p class="uppercase font-bold text-minsk-900 hidden md:block ml-4 text-lg">Aislamientos Térmicos</p>
           </a>
           <div class="hidden sm:ml-6 sm:block">
             <div class="flex space-x-2">

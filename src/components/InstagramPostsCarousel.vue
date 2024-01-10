@@ -131,7 +131,7 @@ defineProps({
                                     style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
                                     <a href="https://www.instagram.com/p/CI6I3fNhox6/?utm_source=ig_embed&amp;utm_campaign=loading"
                                         style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;"
-                                        target="_blank">A post shared by MJF soluciones eléctricas
+                                        target="_blank">A post shared by CTI Aislamientos Térmicos
                                         (@mjfsolucioneselectricas)</a>
                                 </p>
                             </div>
@@ -227,7 +227,7 @@ defineProps({
                                     style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
                                     <a href="https://www.instagram.com/p/CYKj5rpLC7r/?utm_source=ig_embed&amp;utm_campaign=loading"
                                         style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;"
-                                        target="_blank">A post shared by MJF soluciones eléctricas
+                                        target="_blank">A post shared by CTI Aislamientos Térmicos
                                         (@mjfsolucioneselectricas)</a>
                                 </p>
                             </div>
@@ -323,7 +323,7 @@ defineProps({
                                     style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
                                     <a href="https://www.instagram.com/p/B5yulfAJv3e/?utm_source=ig_embed&amp;utm_campaign=loading"
                                         style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;"
-                                        target="_blank">A post shared by MJF soluciones eléctricas
+                                        target="_blank">A post shared by CTI Aislamientos Térmicos
                                         (@mjfsolucioneselectricas)</a>
                                 </p>
                             </div>
@@ -419,7 +419,7 @@ defineProps({
                                     style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
                                     <a href="https://www.instagram.com/p/CRjx8uYB8z_/?utm_source=ig_embed&amp;utm_campaign=loading"
                                         style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;"
-                                        target="_blank">A post shared by MJF soluciones eléctricas
+                                        target="_blank">A post shared by CTI Aislamientos Térmicos
                                         (@mjfsolucioneselectricas)</a>
                                 </p>
                             </div>
