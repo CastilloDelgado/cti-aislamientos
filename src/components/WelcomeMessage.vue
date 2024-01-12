@@ -30,13 +30,11 @@ import PrimaryButton from "./PrimaryButton.vue";
                         </div>
                         <div class="lg:px-10 max-w-lg md:max-w-2xl mx-auto">
                             <p class="text-2xl font-semibold text-minsk-900 text-center mb-2">
-                                Ofrecemos soluciones especializadas en
-                                ingeniería eléctrica
+                                Más de 20 años siendo expertos en el Aislamiento Térmico
                             </p>
                             <p class="text-storm-gray-700 text-center mb-6 ">
-                                Desde 2017, nos destacamos en diseño, construcción y
-                                administración de obras eléctricas. Brindamos servicios eficientes y de calidad tanto
-                                locales como en distintos estados de la república.
+                                Somos expertos en la distribución de materiales para aislamiento térmico, así como en el
+                                diseño, implementación y mantenimiento de diversos tipos de sistemas de aislamiento térmico.
                             </p>
                             <div class="w-full flex justify-center">
                                 <a href="#contacto">

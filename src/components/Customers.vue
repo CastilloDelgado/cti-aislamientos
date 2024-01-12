@@ -1,66 +1,69 @@
 <script setup>
 import { ref } from "vue"
-import cocacolaLogo from "../assets/images/cocacola-logo.jpeg"
-import urreaLogo from "../assets/images/urrea-logo.jpg"
-import aeropuertoLogo from "../assets/images/aeropuerto-logo.jpg"
-import tyaLogo from "../assets/images/tya-logo.png"
-import benottoLogo from "../assets/images/benotto-logo.jpg"
-import freseniusLogo from "../assets/images/fresenius-logo.png"
-import cactusLogo from "../assets/images/cactus-logo.png"
-import morsaLogo from "../assets/images/morsa-logo.jpg"
+import kockLogo from "../assets/images/koch-logo.png"
+import nestleLogo from "../assets/images/nestle-logo.jpg"
+import tequilaLogo from "../assets/images/tequila-logo.png"
+import sauzaLogo from "../assets/images/sauza-logo.jpg"
+import oleosLogo from "../assets/images/oleos-logo.jpg"
 import CustomerBadge from "./CustomerBadge.vue"
 import PrimaryButton from "./PrimaryButton.vue"
 
 
 const customers = ref([
     {
-        alt: "CocaCola Company",
-        title: "CocaCola Company",
-        url: "https://www.coca-cola.com/mx/es",
-        image: cocacolaLogo
+        alt: "Kock Company",
+        title: "Koch Company",
+        url: "https://kochllc.com/our-brands/koch-mexico/",
+        image: kockLogo
     },
     {
-        alt: "Urrea Compañía",
-        title: "Urrea Compañía",
-        url: "https://urrea.mx/",
-        image: urreaLogo
+        alt: "Nestlé México",
+        title: "Nestlé México",
+        url: "https://www.nestle.com.mx/",
+        image: nestleLogo
     },
     {
-        alt: "Grupo Aeroportuario del Pacífico",
-        title: "Grupo Aeroportuario del Pacífico",
-        url: "https://www.aeropuertosgap.com.mx/es/",
-        image: aeropuertoLogo
+        alt: "Tequilas Finos de México SA. de CV.",
+        title: "Tequilas Finos de México SA. de CV.",
+        url: "https://www.mexbest.com/empresa-fabrica-de-tequilas-finos-937.html",
+        image: tequilaLogo
     },
     {
-        alt: "Tierra y Armonía",
-        title: "Tierra y Armonía",
-        url: "https://www.tya.com.mx/",
-        image: tyaLogo
+        alt: "Tequila Sauza",
+        title: "Tequila Sauza",
+        url: "https://www.casasauza.com/",
+        image: sauzaLogo
     },
     {
-        alt: "Benotto",
-        title: "Benotto",
-        url: "https://tienda.benotto.com/?view=Home",
-        image: benottoLogo
+        alt: "Oleos Finos",
+        title: "Oleos Finos",
+        url: "https://oleofinos.com.mx/",
+        image: oleosLogo
     },
-    {
-        alt: "Fresenius Kabi",
-        title: "Fresenius Kabi",
-        url: "https://www.fresenius-kabi.com/mx/",
-        image: freseniusLogo
-    },
-    {
-        alt: "Grupo Morsa",
-        title: "Grupo Morsa",
-        url: "https://www.morsa.com.mx/",
-        image: morsaLogo
-    },
-    {
-        alt: "Cactus Feliz",
-        title: "Cactus Feliz",
-        url: "https://cactusfeliz.com/",
-        image: cactusLogo
-    },
+    // {
+    //     alt: "Benotto",
+    //     title: "Benotto",
+    //     url: "https://tienda.benotto.com/?view=Home",
+    //     image: benottoLogo
+    // },
+    // {
+    //     alt: "Fresenius Kabi",
+    //     title: "Fresenius Kabi",
+    //     url: "https://www.fresenius-kabi.com/mx/",
+    //     image: freseniusLogo
+    // },
+    // {
+    //     alt: "Grupo Morsa",
+    //     title: "Grupo Morsa",
+    //     url: "https://www.morsa.com.mx/",
+    //     image: morsaLogo
+    // },
+    // {
+    //     alt: "Cactus Feliz",
+    //     title: "Cactus Feliz",
+    //     url: "https://cactusfeliz.com/",
+    //     image: cactusLogo
+    // },
 ])
 
 </script>
@@ -73,7 +76,7 @@ const customers = ref([
                 <p class="text-storm-gray-700  text-xl">
                     Con una destacada trayectoria en el mercado, hemos
                     adquirido una amplia experiencia brindando soluciones a
-                    diversos proyectos eléctricos.
+                    diversos proyectos.
                 </p>
             </div>
             <div class="flex justify-center flex-wrap gap-x-6 gap-y-2 lg:gap-x-12  lg:gap-y-6 max-w-4xl mx-auto px-6">
@@ -81,9 +84,7 @@ const customers = ref([
             </div>
             <div class="max-w-xl mx-auto text-storm-gray-700 ">
                 <p class="text-xl text-center mt-12 mb-8">
-                    Con una destacada trayectoria en el mercado, hemos
-                    adquirido una amplia experiencia brindando soluciones a
-                    diversos proyectos eléctricos.
+                    Ponte en contacto con nosotros para saber más de nuestros proyectos.
                 </p>
                 <div class="w-full flex justify-center">
                     <a href="#contacto">

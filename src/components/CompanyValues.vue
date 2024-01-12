@@ -1,10 +1,10 @@
 <script setup>
-import gallery1 from "../assets/images/1.jpg"
-import gallery2 from "../assets/images/2.jpg"
-import gallery3 from "../assets/images/3.jpg"
-import gallery4 from "../assets/images/4.jpg"
-import gallery5 from "../assets/images/5.jpg"
-import gallery6 from "../assets/images/6.jpg"
+import gallery1 from "../assets/images/1.jpeg"
+import gallery2 from "../assets/images/2.jpeg"
+import gallery3 from "../assets/images/3.jpeg"
+import gallery4 from "../assets/images/16.jpeg"
+import gallery5 from "../assets/images/5.jpeg"
+import gallery6 from "../assets/images/6.jpeg"
 </script>
 
 <template>
@@ -14,13 +14,13 @@ import gallery6 from "../assets/images/6.jpg"
             <div class="p-6 ">
                 <div class="grid grid-cols-2 gap-3 ">
                     <div class="">
-                        <img class="mb-3 rounded-md w-full object-cover aspect-video " :src="gallery1" />
+                        <img class="mb-3 rounded-md w-full object-cover aspect-video " :src="gallery4" />
                         <img class="mb-3 rounded-md w-full object-cover aspect-square ..." :src="gallery2" />
                         <img class="mb-3 rounded-md w-full object-cover aspect-video" :src="gallery5" />
                     </div>
                     <div class="pt-12">
                         <img class="mb-3 rounded-md w-full object-cover aspect-video ..." :src="gallery3" />
-                        <img class="mb-3 rounded-md w-full object-cover aspect-square top-10" :src="gallery4" />
+                        <img class="mb-3 rounded-md w-full object-cover aspect-square top-10" :src="gallery1" />
                         <img class="mb-3 rounded-md w-full object-cover aspect-video ..." :src="gallery6" />
                     </div>
                 </div>
@@ -41,30 +41,22 @@ import gallery6 from "../assets/images/6.jpg"
                 <div class="mb-10">
                     <p class="text-2xl font-semibold text-minsk-800 mb-2 text-left">Misión</p>
                     <p class="text-storm-gray-100 text-justify">
-                        Nuestra misión es satisfacer las
-                        necesidades de nuestros clientes
-                        ofreciendo soluciones innovadoras y
-                        sostenibles a largo plazo.
-                        Nos comprometemos a brindar
-                        servicios de alta calidad, superando
-                        sus expectativas y generando un
-                        impacto positivo en sus operaciones.
+                        Ofrecer a nuestros clientes un servicio integral a través de la calidad total respetando las normas
+                        de seguridad e higiene industrial y cuidados del medio ambiente.
                     </p>
                 </div>
-                <div class="left">
+                <div class="left mb-10">
                     <p class="text-2xl font-semibold text-minsk-800  mb-2 text-right">Visión</p>
                     <p class="text-storm-gray-100 text-justify">
-                        Nuestra visión es consolidarnos
-                        como una empresa líder en el
-                        sector, destacando por nuestra
-                        organización, experiencia y
-                        profesionalismo.
-                        Aspiramos a ser altamente
-                        valorados por nuestros clientes,
-                        logrando su plena satisfacción y
-                        siendo seleccionados para
-                        proyectos de gran magnitud y
-                        complejidad técnica.
+                        Consolidarnos como una empresa competitiva en costos y calidad en las áreas de comercialización y
+                        servicios de mantenimiento industrial.
+                    </p>
+                </div>
+                <div class="">
+                    <p class="text-2xl font-semibold text-minsk-800 mb-2 text-left">Politicas</p>
+                    <p class="text-storm-gray-100 text-justify">
+                        Mantener costos competitivos formando alianzas de trabajo directamente con fabricantes de productos
+                        industriales, reflejando en ello los beneficios de costo de calidad y servicios a nuestros clientes.
                     </p>
                 </div>
             </div>

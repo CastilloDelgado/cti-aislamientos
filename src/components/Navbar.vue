@@ -77,12 +77,12 @@ const links = ref([
               <NavbarLink v-for="link in links" :link="link">
                 {{ link.title }}
               </NavbarLink>
-              <a :href="portfolio" target="_blank" class=" block rounded-sm px-4 py-2 text-base shadow-md" :class="{
+              <!-- <a :href="portfolio" target="_blank" class=" block rounded-sm px-4 py-2 text-base shadow-md" :class="{
                 'bg-minsk-900 text-white font-medium': active,
                 'bg-white text-storm-gray-900 hover:bg-minsk-900 hover:text-white': !active
               }" aria-current="page">
                 Portafolio
-              </a>
+              </a> -->
             </div>
           </div>
         </div>
