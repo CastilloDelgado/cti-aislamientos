@@ -1,4 +1,3 @@
-
 <script setup>
 import PrimaryButton from './PrimaryButton.vue';
 </script>
@@ -11,20 +10,19 @@ import PrimaryButton from './PrimaryButton.vue';
                 <div class="max-w-lg mx-auto flex flex-col gap-1">
                     <div class="flex justify-between gap-2">
                         <p class="font-semibold">Nombre de Contacto:</p>
-                        <p>Ing. Carlos Ide Ornelas</p>
+                        <p>Ing. Rodolfo Ide Pinto</p>
                     </div>
                     <div class="flex justify-between gap-2">
                         <p class="font-semibold">Dirección:</p>
                         <a href="https://maps.app.goo.gl/pRcoWUMNJBg3dgn48" target="_blank">
                             <p class="text-right">
-                                Isla Trinidad No. 2458 Col. Jardines de la Cruz Guadalajara, Jal. C.P. 44920
-                            </p>
+                                Mezquite 1427, Del Fresno, 44900 Guadalajara, Jal. </p>
                         </a>
                     </div>
                     <div class="flex justify-between gap-2">
                         <p class="font-semibold">Teléfono:</p>
-                        <a href="tel:+52-33-3811-3359">
-                            <p>+52 33-3811-3359</p>
+                        <a href="tel:+52-33-1615-0122">
+                            <p>+52 33-1615-0122</p>
                         </a>
                     </div>
                     <div class="flex justify-between gap-2 mb-4">
@@ -35,7 +33,7 @@ import PrimaryButton from './PrimaryButton.vue';
                     </div>
                     <div class="h-72 border-4 border-white">
                         <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3733.5302334690523!2d-103.37908062473456!3d20.64799630074758!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8428adeed33ae66b%3A0xbd639ca291abddb4!2sIsla%20Trinidad%202458%2C%20Col%C3%B3n%2C%2044920%20Guadalajara%2C%20Jal.!5e0!3m2!1ses-419!2smx!4v1704927808138!5m2!1ses-419!2smx"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d983.1387586512367!2d-103.36766664602231!3d20.655747784292128!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8428adfbab7ac57b%3A0x47bc8659178498ce!2sMezquite%201427%2C%20Del%20Fresno%2C%2044900%20Guadalajara%2C%20Jal.!5e0!3m2!1sen!2smx!4v1713998144705!5m2!1sen!2smx"
                             width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
                             referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
@@ -43,7 +41,8 @@ import PrimaryButton from './PrimaryButton.vue';
             </div>
             <div class="">
                 <div class="flex justify-center">
-                    <form class="w-full sm:2/3" action="https://formsubmit.co/contacto@cti-aislamientos.com" method="POST">
+                    <form class="w-full sm:2/3" action="https://formsubmit.co/contacto@cti-aislamientos.com"
+                        method="POST">
                         <p class="text-center text-2xl text-minsk-900 font-bold mb-2">Contacto</p>
                         <p class="text-center text-lg  px-6 lg:px-24 mb-6 text-storm-gray-800">
                             Completa el formulario, da click enviar y te contactaremos a la brevedad.

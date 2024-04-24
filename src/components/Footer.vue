@@ -5,13 +5,13 @@
             <div class="w-full sm:w-1/2 mb-4 sm:mb-0">
                 <div class="text-center sm:text-left text-primary-300 text-md">
                     <p class="text mb-2 font-medium">CTI - Aislamientos Térmicos</p>
-                    <p class="text-storm-gray-300">Email: <a class="text-white" href="mailto:contacto@cti-aislamientos.com">
+                    <p class="text-storm-gray-300">Email: <a class="text-white"
+                            href="mailto:contacto@cti-aislamientos.com">
                             contacto@cti-aislamientos.com
                         </a></p>
                     <p class="text-storm-gray-300">Dirección: <a href="https://maps.app.goo.gl/pRcoWUMNJBg3dgn48"
                             target="_blank" class="text-white">
-                            Isla Trinidad No. 2458 Col. Jardines de la Cruz Guadalajara, Jal. C.P. 44920
-                        </a></p>
+                            Mezquite 1427, Del Fresno, 44900 Guadalajara, Jal. </a></p>
                 </div>
             </div>
             <!-- <div class="w-full sm:w-1/2 mb-4 sm:mb-0">
