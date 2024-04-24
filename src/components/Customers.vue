@@ -2,7 +2,7 @@
 import { ref } from "vue"
 import kockLogo from "../assets/images/koch-logo.png"
 import nestleLogo from "../assets/images/nestle-logo.jpg"
-import tequilaLogo from "../assets/images/tequila-logo.png"
+import tequilaLogo from "../assets/images/tequilas-finos-logo.png"
 import sauzaLogo from "../assets/images/sauza-logo.jpg"
 import oleosLogo from "../assets/images/oleos-logo.jpg"
 import CustomerBadge from "./CustomerBadge.vue"
@@ -10,12 +10,12 @@ import PrimaryButton from "./PrimaryButton.vue"
 
 
 const customers = ref([
-    {
-        alt: "Kock Company",
-        title: "Koch Company",
-        url: "https://kochllc.com/our-brands/koch-mexico/",
-        image: kockLogo
-    },
+    // {
+    //     alt: "Kock Company",
+    //     title: "Koch Company",
+    //     url: "https://kochllc.com/our-brands/koch-mexico/",
+    //     image: kockLogo
+    // },
     {
         alt: "Nestlé México",
         title: "Nestlé México",
