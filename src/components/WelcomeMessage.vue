@@ -1,5 +1,5 @@
 <script setup>
-import logo from "../assets/images/logo-text-transparent.png"
+import logo from "../assets/images/logo-vertical.png"
 import image1 from "../assets/images/13.jpeg"
 import PrimaryButton from "./PrimaryButton.vue";
 
@@ -34,7 +34,8 @@ import PrimaryButton from "./PrimaryButton.vue";
                             </p>
                             <p class="text-storm-gray-700 text-center mb-6 ">
                                 Somos expertos en la distribución de materiales para aislamiento térmico, así como en el
-                                diseño, implementación y mantenimiento de diversos tipos de sistemas de aislamiento térmico.
+                                diseño, implementación y mantenimiento de diversos tipos de sistemas de aislamiento
+                                térmico.
                             </p>
                             <div class="w-full flex justify-center">
                                 <a href="#contacto">
