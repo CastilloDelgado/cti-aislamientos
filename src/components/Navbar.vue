@@ -2,7 +2,6 @@
 import { ref } from 'vue';
 import logo from "../assets/images/logo-horizontal.png"
 import NavbarLink from './NavbarLink.vue';
-import portfolio from "../assets/files/portfolio.pdf"
 
 const menuOpen = ref(false)
 
